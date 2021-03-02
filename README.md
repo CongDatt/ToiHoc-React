@@ -46,4 +46,8 @@
 |  | Không thể thay đổi| Có thể thay đổi | 
 |  | | Phạm vị private trong component | 
 
+## 6. Lifecycle
+- Lifecycle có thể hiểu là các giai đoạn của 1 component: gồm có Mounting(tạo), Updating(cập nhật), and Unmounting(kết thúc).
+- 
+
 
