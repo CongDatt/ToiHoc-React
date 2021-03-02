@@ -39,3 +39,9 @@
 <p align="center">
   <img width="460" height="300" src="https://pbs.twimg.com/media/DzOiXqOX4Ac-1Jx.jpg" />
 </p>
+
+| So sánh | Props | State |
+|--------------|-------|------|
+|  | Nhận giá trị bên ngoài vào| Dữ liệu nội bộ | 
+|  | Không thể thay đổi| Có thể thay đổi | 
+|  | | Phạm vị private trong component | 
