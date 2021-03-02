@@ -45,3 +45,5 @@
 |  | Nhận giá trị bên ngoài vào| Dữ liệu nội bộ | 
 |  | Không thể thay đổi| Có thể thay đổi | 
 |  | | Phạm vị private trong component | 
+
+
