@@ -27,4 +27,11 @@
 - Dùng thẻ con trong JSX `const element = <img src={user.avatarUrl} />;`
 
 ## 4. Props
--
+- component thực chất là một function Javascript (hoặc class), phương thức truyền giá trị giữa các function này được gọi là props, chúng được React xử lý và trả kết quả hiển thị trên trình duyệt.
+
+## 5. State
+- Giá trị của Props không thay đổi, chỉ truyền từ component này sang component khác. Bản thân component đôi lúc cũng cần xử lý dữ liệu riêng của nó, ví dụ thay đổi thông tin dữ liệu như name, ... do đó React đã cho ra đời khái niệm State để giải quyết bài toán về dữ liệu bên trong component
+- Ví dụ về State: 
+<p>
+  <img src="https://lh4.googleusercontent.com/ln-vNwlQ9yvNtH5hFiUi7pFxY8YELuGueAoeYxa79580HkT7LHBae6u2RAHxw51oH2qkKoWogo5q8gMRzc71d6I6-7suhZiPayez5RtuDhsYlHS435weXdrZQx4F7WTg12wmYNal" />
+</p>
