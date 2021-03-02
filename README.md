@@ -8,4 +8,8 @@
   
 ## 2. Components
 ## 3. JSX
+- **Lưu ý:** Vì JSX gần với JavaScript hơn là so với HTML, React DOM sử dụng chuẩn quy tắc đặt tên camelCase cho thuộc tính thay vì dùng tên thuộc tính gốc của HTML.
+- là một cú pháp mở rộng cho JavaScript. Chúng tôi khuyến khích sử dụng JSX với React để mô tả giao diện (UI). JSX có thể trông giống Ngôn ngữ Khuôn mẫu (Template language), nhưng JSX đi kèm với toàn bộ tính năng của JavaScript.
+- Expressions in JSX: dùng `{ }`
+  - Ví dụ: `const myelement = <h1>React is {5 + 5} times better with JSX</h1>;`
 ## 4. 
