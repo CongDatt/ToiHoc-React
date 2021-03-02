@@ -2,7 +2,7 @@
 ## 1. Giới thiệu về ReactJS 
 - React là thư viện JavaScript phổ biến nhất để xây dựng giao diện người dùng (UI). 
 - Được phát triển bởi Facebook. Nó được ra mắt như một công cụ JavaScript mã nguồn mở vào năm 2013.
-<p text-align="center"> 
+<p align="center"> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
 </p>
   
@@ -32,6 +32,6 @@
 ## 5. State
 - Giá trị của Props không thay đổi, chỉ truyền từ component này sang component khác. Bản thân component đôi lúc cũng cần xử lý dữ liệu riêng của nó, ví dụ thay đổi thông tin dữ liệu như name, ... do đó React đã cho ra đời khái niệm State để giải quyết bài toán về dữ liệu bên trong component
 - Ví dụ về State: 
-<p>
+<p align="center">
   <img src="https://lh4.googleusercontent.com/ln-vNwlQ9yvNtH5hFiUi7pFxY8YELuGueAoeYxa79580HkT7LHBae6u2RAHxw51oH2qkKoWogo5q8gMRzc71d6I6-7suhZiPayez5RtuDhsYlHS435weXdrZQx4F7WTg12wmYNal" />
 </p>
