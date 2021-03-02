@@ -3,7 +3,7 @@
 - React là thư viện JavaScript phổ biến nhất để xây dựng giao diện người dùng (UI). 
 - Được phát triển bởi Facebook. Nó được ra mắt như một công cụ JavaScript mã nguồn mở vào năm 2013.
 <p align="center"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
+  <img width="460" height="300" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png"
 </p>
   
 ## 2. Components
@@ -34,8 +34,8 @@
 - State được viết dưới dạng Class or Arrow function.
 - Ví dụ về State: 
 <p align="center">
-  <img src="https://lh4.googleusercontent.com/ln-vNwlQ9yvNtH5hFiUi7pFxY8YELuGueAoeYxa79580HkT7LHBae6u2RAHxw51oH2qkKoWogo5q8gMRzc71d6I6-7suhZiPayez5RtuDhsYlHS435weXdrZQx4F7WTg12wmYNal" />
+  <img  src="https://lh4.googleusercontent.com/ln-vNwlQ9yvNtH5hFiUi7pFxY8YELuGueAoeYxa79580HkT7LHBae6u2RAHxw51oH2qkKoWogo5q8gMRzc71d6I6-7suhZiPayez5RtuDhsYlHS435weXdrZQx4F7WTg12wmYNal" />
 </p>
 <p align="center">
-  <img src="https://pbs.twimg.com/media/DzOiXqOX4Ac-1Jx.jpg" />
+  <img width="460" height="300" src="https://pbs.twimg.com/media/DzOiXqOX4Ac-1Jx.jpg" />
 </p>
