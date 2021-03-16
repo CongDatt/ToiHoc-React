@@ -28,6 +28,9 @@
 
 ## 4. Props
 - component thực chất là một function Javascript (hoặc class), phương thức truyền giá trị giữa các function này được gọi là props, chúng được React xử lý và trả kết quả hiển thị trên trình duyệt.
+- tạo sự đa dạng cho componets : cùng 1 components có thể có nhiều props để render khác nhau.
+- có thể dùng mà không cần khai báo.
+- 
 
 ## 5. State
 - Giá trị của Props không thay đổi, chỉ truyền từ component này sang component khác. Bản thân component đôi lúc cũng cần xử lý dữ liệu riêng của nó, ví dụ thay đổi thông tin dữ liệu như name, ... do đó React đã cho ra đời khái niệm State để giải quyết bài toán về dữ liệu bên trong component.
